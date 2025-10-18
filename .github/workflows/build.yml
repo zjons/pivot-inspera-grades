@@ -26,10 +26,14 @@ jobs:
 
     - name: Build executable
       run: |
-        pyinstaller --onefile --windowed pivot_inspera_grades_gui.py
+        pyinstaller --onefile --windowed pivot_inspera_grades_gui.p
+
+    - name: List output files
+      run: dir dist
+
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
         name: Windows Executable
-        path: dist/main.exe
+        path: dist/pivot_inspera_grades_gui.exe
