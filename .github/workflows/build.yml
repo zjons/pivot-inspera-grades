@@ -26,7 +26,7 @@ jobs:
 
     - name: Build executable
       run: |
-        pyinstaller --onefile --windowed pivot_inspera_grades_gui.p
+        pyinstaller --onefile --windowed pivot_inspera_grades_gui.py
 
     - name: List output files
       run: dir dist
