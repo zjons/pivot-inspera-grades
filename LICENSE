@@ -1,0 +1,35 @@
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+Preamble
+
+The GNU Lesser General Public License is a free software license published by the Free Software Foundation (FSF). It allows developers and companies to use and integrate software released under the LGPL into their own (including proprietary) software without being required to release the source code of their own components. The LGPL is primarily used for software libraries.
+
+This version of the LGPL is the GNU Lesser General Public License version 3. You should have received a copy of the GNU Lesser General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+0. Additional Definitions.
+
+As used herein, "this License" refers to version 3 of the GNU Lesser General Public License.
+
+"Library" means a covered work governed by this License.
+
+"You" indicates any person or entity that redistributes or modifies the Library.
+
+1. Exception for linking.
+
+You may convey a Combined Work that uses the Library without providing the source code for proprietary components, provided you comply with the terms of this License for the Library portion and provide means to obtain the Library source under the LGPL.
+
+2. Basic Permissions.
+
+The rights granted under this License are in addition to the rights under the GNU General Public License (GPL). The LGPL permits linking of the Library with independent modules to produce an executable, under certain conditions.
+
+3. Responsibilities.
+
+If you distribute the Library or a work based on the Library, you must make the corresponding source available under this License.
+
+For the full, authoritative text of the GNU Lesser General Public License v3.0, see https://www.gnu.org/licenses/lgpl-3.0.txt
+
+(End of LICENSE summary; full license text available at the link above.)
