@@ -35,7 +35,7 @@ Replace the filenames with your actual Inspera export and the desired output fil
 ### GUI
 To run the GUI:
 ```
-python gui.py
+python pivot_inspera_grades_gui.py
 ```
 The GUI will prompt you to select the input file and output location.
 
